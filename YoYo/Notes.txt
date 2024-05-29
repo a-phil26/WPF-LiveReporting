@@ -1,0 +1,8 @@
+Need to create a queu called Yo-Yo.
+Ctrl Pnl -> Programs -> Turn on Features-> Turn on Microsoft Msg Q (I did this already)
+
+CMpt management -> services -> messaging Q -> right click - create nw private q
+
+consider writing the data to a different type of table.
+think about triggers, denormalizing data so I don't need joins
+Indexing will get nuked over time - how will you fix this? 

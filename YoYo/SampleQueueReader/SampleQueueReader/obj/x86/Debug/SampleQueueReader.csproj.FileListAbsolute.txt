@@ -1,0 +1,10 @@
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe.config
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.csproj.AssemblyReference.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.frmMain.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.csproj.GenerateResource.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.csproj.CoreCompileInputs.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYo\SampleQueueReader\SampleQueueReader\obj\x86\Debug\SampleQueueReader.pdb

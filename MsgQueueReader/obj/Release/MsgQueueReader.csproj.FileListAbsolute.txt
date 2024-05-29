@@ -1,0 +1,10 @@
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\bin\Release\MsgQueueReader.exe.config
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\bin\Release\MsgQueueReader.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\bin\Release\MsgQueueReader.pdb
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.csproj.AssemblyReference.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.QueueReaderForm.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.Properties.Resources.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.csproj.GenerateResource.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.csproj.CoreCompileInputs.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\MsgQueueReader\obj\Release\MsgQueueReader.pdb

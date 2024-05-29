@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|c:\\users\\addyj\\onedrive - conestoga college\\conestoga\\year 3\\term 6\\business intelligence\\assignments\\a02\\yoyolivereporting\\datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:datareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0531846C-F9B7-4DD3-8287-9C30CEAD2F38}|YoYoLiveReporting.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:48:30.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:48:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T02:53:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataReader.cs",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\DataReader.cs",
+              "RelativeDocumentMoniker": "DataReader.cs",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\DataReader.cs",
+              "RelativeToolTip": "DataReader.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T14:44:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-02T14:43:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\addyj\\OneDrive - Conestoga College\\Conestoga\\Year 3\\Term 6\\Business Intelligence\\Assignments\\A02\\YoYoLiveReporting\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T02:53:05.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

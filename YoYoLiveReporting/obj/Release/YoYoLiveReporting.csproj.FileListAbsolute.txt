@@ -1,0 +1,10 @@
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\bin\Release\YoYoLiveReporting.exe.config
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\bin\Release\YoYoLiveReporting.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\bin\Release\YoYoLiveReporting.pdb
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.csproj.AssemblyReference.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.LiveReporting.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.Properties.Resources.resources
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.csproj.GenerateResource.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.csproj.CoreCompileInputs.cache
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.exe
+C:\Users\addyj\OneDrive - Conestoga College\Conestoga\Year 3\Term 6\Business Intelligence\Assignments\A02\YoYoLiveReporting\obj\Release\YoYoLiveReporting.pdb
